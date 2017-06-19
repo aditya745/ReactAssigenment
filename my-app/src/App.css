@@ -1,0 +1,58 @@
+.user-row {
+  padding: 20px 0;
+  border-bottom: 1px solid #f3efe7;
+  padding-left: 5px;
+}
+
+.user-row:nth-of-type(1) {
+  border-top: 1px solid #f3efe7;
+}
+*{
+  margin:0;
+  padding:0;
+}
+.inverse{
+  background: #ADB5BD;
+  margin:0;
+  padding:25px;
+  color:white;
+  font-size: 22px;
+}
+h3 {
+  color: #757575;
+  font-weight: bold;
+  margin-bottom: 40px;
+  padding-left: 10px;
+}
+
+h5 {
+  font-weight: bold;
+  padding: 12px 0;
+}
+
+.header-row {
+  border-top: 1px solid #f3efe7;
+  padding-left: 10px;
+}
+
+.action-link {
+  cursor: pointer;
+  color: #909090;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.form-element{
+  border-radius: 0;
+}
+
+.add-button {
+  background: #EDEDED;
+  color: #757575;
+  border-radius: 0;
+  font-weight: bold;
+}
+
+.new-user-form {
+  padding-left: 10px;
+}
